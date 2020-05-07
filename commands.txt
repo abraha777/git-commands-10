@@ -1,0 +1,14 @@
+move a repo to the local machine:
+git clone https://abraha777.github.io/portal/
+
+see changes in the repo:
+git status
+
+stage all changed files:
+git add .
+
+makes all stage files part of branch:
+git commit -m "Adds files to branch"
+
+move the changed files to the server:
+git push
